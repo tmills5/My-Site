@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    margin: auto 20px auto;
+    text-decoration: none;  
+}
+
+a:hover {
+    color: #EAF6F6
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+    color: #40514E;
+}
+
+.programmerTitle {
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 0.5rem;
+}
+
+.topContainer {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomCloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.profilePic {
+    height: 200px;
+    padding: 50px 50px 0 50px;
+}
+  
+.helloP {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+hr {
+    border-style: none;
+    border-color: #EAF6F6;
+    border-top-style: dotted;
+    width: 6%;
+    border-width: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    }
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.firefighter {
+    width: 25%;
+    float: left;
+    border-radius: 25%;
+    margin-right: 30px;
+}
+
+.piano {
+    width: 25%;
+    float: right;
+    border-radius: 25%;
+    margin-left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 19px;
+    font-weight: 100;
+    padding: 13px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+
+ .btn:hover {
+     background-color:blue;
+ }
+
+ .footer-link {
+    position: relative;
+    padding-bottom: 50px;
+
+ }
+
+.footerP {
+    color: #EAF6F6
+}
+
+
+.bottomContainer {
+    margin-top: 50px;
+    padding: 20px 0 20px;
+    background-color: #66BFBF;
+    height: 50px;
+    width: auto;
+}
+
+
